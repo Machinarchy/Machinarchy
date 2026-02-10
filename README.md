@@ -8,23 +8,24 @@
 
 ---
 
-### 💡 Philosophy
+### 🧠 What I’m Building Now
 
-> “Financial data should be handled by machines — not unreliable, lazy humans.”
+After ranking #1 across all Spider 2.0 tracks 
+(dbt – June 2025, lite – January 2026, snow – February 2026),
 
-At **DAQUV**, a fintech NL2SQL AI-agent startup, we are building technology that allows **natural language to directly manipulate financial databases** — ending the manual era of financial data operations.
+I shifted focus from benchmark research to building a fully autonomous AI-native company.
 
----
+At DAQUV, we are designing a system where:
 
-### 🧠 What I’m Working On
+- AI agents build and evolve semantic models autonomously  
+- AI agents generate, execute, and validate production code  
+- AI agents write product documentation and explain outputs  
+- Human intervention is minimized to high-level strategic decisions  
 
-I lead research on:
+Our goal is simple:
 
-- How **LLMs understand structured data**
-- Latest **NL2SQL (Text-to-SQL)** methodologies
-- After achieving **Rank #1 on Spider 2.0-dbt (June 2025)** and  
-  **Rank #1 on Spider 2.0-lite (January 2026)**,  
-  now challenging **Spider 2.0-snow**, the next frontier in fully-structured NL2SQL reasoning.
+To build a financial data company that operates like a self-driving system —  
+where machines design, reason, and execute end-to-end.
 
 ---
 
@@ -55,7 +56,6 @@ I lead research on:
 <p align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/milvus-io/artwork/master/horizontal/color/milvus-horizontal-color.svg" height="32" alt="Milvus" />
 </p>
 
 ---
@@ -63,10 +63,10 @@ I lead research on:
 ### 💻 Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="40" alt="Thymeleaf" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </p>
 
 ---
@@ -83,6 +83,7 @@ I lead research on:
 
 ### 🏅 Achievements & Recognition
 
+- 🥇 Ranked #1 on Spider 2.0-snow (February 2026) — the hardest NL2SQL benchmark
 - 🥇 **Ranked #1 on Spider 2.0-lite (January 2026)** — closest benchmark to real NL2SQL agent behavior
 - 🥇 **Ranked #1 on Spider 2.0-dbt (June 2025)** — high-complexity multi-hop database reasoning  
 - 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01*  
