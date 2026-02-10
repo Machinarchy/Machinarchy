@@ -2,7 +2,6 @@
 
 <p align="center">
 💼 CTO @ <a href="https://daquv.com" target="_blank">DAQUV</a><br>
-🎓 Seoul National University, B.A. in Economics<br>
 📍 Based in Seoul, South Korea
 </p>
 
@@ -24,7 +23,7 @@ At DAQUV, we are designing a system where:
 
 Our goal is simple:
 
-To build a financial data company that operates like a self-driving system —  
+To build a mission-critical data company that operates like a self-driving system —  
 where machines design, reason, and execute end-to-end.
 
 ---
