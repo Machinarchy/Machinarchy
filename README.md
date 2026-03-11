@@ -9,7 +9,7 @@
 
 ### 🧠 What I’m Building Now
 
-After ranking #1 across all Spider 2.0 tracks 
+After **ranking #1 across all Spider 2.0 tracks** 
 (dbt – June 2025, lite – January 2026, snow – February 2026),
 
 I shifted focus from benchmark research to building a fully autonomous AI-native company.
@@ -82,7 +82,7 @@ where machines design, reason, and execute end-to-end.
 
 ### 🏅 Achievements & Recognition
 
-- 🥇 Ranked #1 on Spider 2.0-snow (February 2026) — the hardest NL2SQL benchmark
+- 🥇 **Ranked #1 on Spider 2.0-snow (February 2026)** — the hardest NL2SQL benchmark
 - 🥇 **Ranked #1 on Spider 2.0-lite (January 2026)** — closest benchmark to real NL2SQL agent behavior
 - 🥇 **Ranked #1 on Spider 2.0-dbt (June 2025)** — high-complexity multi-hop database reasoning  
 - 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01*  
